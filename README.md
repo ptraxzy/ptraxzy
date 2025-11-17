@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dive into backend development with PHP and start learning the basics of Machine Learning.<br>An open-source project for beginners where I can contribute while learning from other developers.<br>Understand the basic algorithms of Machine Learning such as regression and classification.<br>The basics of Artificial Intelligence, Machine Learning, and PHP frameworks like Laravel.<br>Anything related to PHP, HTML, CSS, or we can discuss together about AI concepts.<br>"Besides coding, I like [mention your hobby,playing games, reading book,<br>study in SMKN 6 MALANG<br>
+Dive into backend development with PHP and start learning the basics of Machine Learning.<br>An open-source project for beginners where I can contribute while learning from other developers.<br>Understand the basic algorithms of Machine Learning such as regression and classification.<br>The basics of Artificial Intelligence, Machine Learning, and PHP frameworks like Laravel.<br>Anything related to PHP, HTML, CSS, Laravel, Javascript, or we can discuss together about AI concepts.<br>"Besides coding, I like [mention your hobby,playing games, reading book,<br>study in SMKN 6 MALANG<br>
 
 
 ## 🌐 Socials:
