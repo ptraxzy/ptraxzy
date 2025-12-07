@@ -9,8 +9,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=450&lines=I+turn+ideas+into+amazing+web+apps.;Committed+to+clean+code+and+great+design.)](https://git.io/typing-svg)
   
   <br>
-
-  <img src="https://raw.githubusercontent.com/ptraxzy/ptraxzy/main/coding_art.gif" alt="Coding GIF from Repo" width="450"/>
   
 </div>
 ---
