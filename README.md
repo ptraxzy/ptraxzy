@@ -10,7 +10,7 @@
   
   <br>
 
-  <img src="https://user-images.githubusercontent.com/74038190/216762312-d8126759-4089-492e-8367-93e82c5a242f.png" alt="Static Coding Setup" width="450"/>
+  <img src="./coding_art.gif" alt="Coding GIF from Repo" width="450"/>
   
 </div>
 ---
