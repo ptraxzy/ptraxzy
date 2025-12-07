@@ -14,7 +14,7 @@
 ---
 
 # 💫 About Me:
-im Muhammad putra al-ghifary<br><br>I am a digital builder who operates at the intersection of logic and aesthetics. My core strength is<br> crafting intuitive and responsive web applications where the underlying code is robust, <br>and the user experience is seamless. I strive to create solutions that are both technically sound and visually stunning.
+I'm Muhammad putra al-ghifary<br><br>I am a digital builder who operates at the intersection of logic and aesthetics. My core strength is<br> crafting intuitive and responsive web applications where the underlying code is robust, <br>and the user experience is seamless. I strive to create solutions that are both technically sound and visually stunning.
 
 <br>
 
