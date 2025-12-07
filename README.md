@@ -10,7 +10,7 @@
   
   <br>
 
-  <img src="https://64.media.tumblr.com/6c043e743a14b5321588d90400032f6a/tumblr_pe5a07wF6R1x559bto1_540.gif" alt="Coding GIF - Aesthetic" width="450"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216762312-d8126759-4089-492e-8367-93e82c5a242f.png" alt="Static Coding Setup" width="450"/>
   
 </div>
 ---
