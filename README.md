@@ -10,7 +10,7 @@
   
   <br>
 
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWrpVYr/giphy.gif" alt="Coding GIF" width="450"/>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header.gif" alt="Coding Terminal GIF" width="450"/>
   
 </div>
 ---
