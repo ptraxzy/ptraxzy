@@ -10,7 +10,7 @@
   
   <br>
 
-  <img src="./coding_art.gif" alt="Coding GIF from Repo" width="450"/>
+  <img src="https://raw.githubusercontent.com/ptraxzy/ptraxzy/main/coding_art.gif" alt="Coding GIF from Repo" width="450"/>
   
 </div>
 ---
