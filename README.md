@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Muhammad Putra Al-Ghifary
 
-### 👨‍💻 Web Developer from Indonesia 🇮🇩
-**I turn ideas into amazing web apps.**
+### <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF90&width=435&lines=Web+Developer+from+Indonesia+🇮🇩;I+turn+ideas+into+amazing+web+apps.;I+code+while+others+sleep." alt="Typing SVG" /> </p>
 
 ---
 
@@ -10,24 +9,38 @@ I am a digital builder operating at the intersection of logic and aesthetics. My
 
 - 🔭 My Main Portfolio: **[exploitd.me](https://exploitd.me)**
 - 🌍 Second Domain: **[ultramaxo.tech](https://ultramaxo.tech)**
-- ⚡ Fun fact: **I code with passion.**
+- ⚡ Fun fact: **Coding is my lifestyle.**
 
 ---
 
 ### 📱 Socials:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com) [![Instagram](https://img.shields.io/badge/Instagram-E11762?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/putraagifary) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:putraagifary12@gmail.com)
+<p align="left">
+<a href="https://discord.com" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://instagram.com/putraagifary" target="blank"><img src="https://img.shields.io/badge/Instagram-E11762?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:putraagifary12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+<p align="left">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=dark&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=dark&hide_border=true" width="300" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ptraxzy&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 ---
