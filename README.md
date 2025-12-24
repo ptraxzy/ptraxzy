@@ -42,6 +42,6 @@ I am a digital builder operating at the intersection of logic and aesthetics. My
 
 ---
 <p align="right">
-  <a href="https://instagram.com/putraagifary">Instagram</a> • 
+  <a href="https://instagram.com/putrxzyy_">Instagram</a> • 
   <a href="https://wa.me/6285191689131">Contact</a>
 </p>
