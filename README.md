@@ -1,39 +1,42 @@
-<div align="center">
-  
-  # Hi there 👋, I'm Muhammad Putra Al-Ghifary
-  
-  ## 💻 Web Developer from Indonesia 🧑‍💻
-  
-  <br>
+# <p align="center">Hi there 👋, I'm Muhammad Putra Al-Ghifary</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PUTRA%20PROJECT&fontSize=70&animation=fadeIn" />
+</p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=450&lines=I+turn+ideas+into+amazing+web+apps.;Committed+to+clean+code+and+great+design.)](https://git.io/typing-svg)
-  
-  <br>
-  
-</div>
----
+## 🚀 About Me
+I am a digital builder operating at the intersection of logic and aesthetics. My core strength is crafting intuitive and responsive web applications where the underlying code is robust.
 
-# 💫 About Me:
-I'm Muhammad putra al-ghifary<br><br>I am a digital builder who operates at the intersection of logic and aesthetics. My core strength is<br> crafting intuitive and responsive web applications where the underlying code is robust, <br>and the user experience is seamless. I strive to create solutions that are both technically sound and visually stunning.
-
-<br>
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/@ultramaxo1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@putrxzyy_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:putraagifary12@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-# ☁️ Hosting & Services:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ptraxzy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ptraxzy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ptraxzy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 🔭 My Main Portfolio: **[exploitd.me](https://exploitd.me)**
+- 🌍 Second Domain: **[ultramaxo.tech](https://ultramaxo.tech)**
+- ⚡ Fun fact: **I turn ideas into amazing web apps.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ptraxzy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ptraxzy&theme=tokyonight&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📱 Connect With Me
+<p align="left">
+  <a href="https://wa.me/6285191689131"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/putraagifary"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
