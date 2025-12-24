@@ -1,52 +1,45 @@
-# <p align="center">Hi there 👋, I'm Muhammad Putra Al-Ghifary</p>
+# <p align="center">Putra</p>
+<p align="center"><i>Digital Builder & Security Enthusiast</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF90&center=true&vCenter=true&width=500&lines=Web+Developer+from+Indonesia+🇮🇩;I+turn+ideas+into+amazing+web+apps.;Master+/+Owner+Sigma+👑;I+code+while+others+sleep." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Crafting+intuitive+web+experiences;Turning+complex+logic+into+art;Operating+at+exploitd.me" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ptraxzy&label=Profile%20Views&color=00FF90&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/status-active-00FF90?style=flat-square&logo=github" /> 
+  <img src="https://komarev.com/ghpvc/?username=ptraxzy&label=AUDIENCE&color=444444&style=flat-square" />
 </p>
 
 ---
 
-### 🚀 About Me:
+### ⚡ Quick Overview
 I am a digital builder operating at the intersection of logic and aesthetics. My core strength is crafting intuitive and responsive web applications where the underlying code is robust.
 
-- 🔭 My Main Portfolio: **[exploitd.me](https://exploitd.me)**
-- 🌍 Second Domain: **[ultramaxo.tech](https://ultramaxo.tech)**
-- ⚡ Fun fact: **Coding is my lifestyle.**
+* **Primary:** [exploitd.me](https://exploitd.me)
+* **Secondary:** [ultramaxo.tech](https://ultramaxo.tech)
+* **Focus:** Web Security & Fullstack Dev
 
 ---
 
-### 📱 Socials:
+### 🛠 Tech Stack
 <p align="left">
-<a href="https://discord.com" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://instagram.com/putraagifary" target="blank"><img src="https://img.shields.io/badge/Instagram-E11762?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:putraagifary12@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 </p>
 
 ---
 
-### 💻 Tech Stack:
-<p align="left">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats:
+### 📊 Performance Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ptraxzy&theme=tokyonight&area=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=transparent&title_color=00FF90&text_color=FFFFFF&icon_color=00FF90&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=transparent&title_color=00FF90&text_color=FFFFFF&hide_border=true" />
 </p>
 
 ---
+<p align="right">
+  <a href="https://instagram.com/putraagifary">Instagram</a> • 
+  <a href="https://wa.me/6285191689131">Contact</a>
+</p>
