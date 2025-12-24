@@ -1,8 +1,6 @@
 # <p align="center">Putra</p>
-<p align="center"><i>Digital Builder & Security Enthusiast</i></p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Crafting+intuitive+web+experiences;Turning+complex+logic+into+art;Operating+at+exploitd.me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Software+Engineer;Fullstack+Web+Enthusiast;Building+exploitd.me" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,25 +15,29 @@ I am a digital builder operating at the intersection of logic and aesthetics. My
 
 * **Primary:** [exploitd.me](https://exploitd.me)
 * **Secondary:** [ultramaxo.tech](https://ultramaxo.tech)
-* **Focus:** Web Security & Fullstack Dev
+* **Focus:** Web Security & Fullstack Development
 
 ---
 
 ### 🛠 Tech Stack
 <p align="left">
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 Performance Metrics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=transparent&title_color=00FF90&text_color=FFFFFF&icon_color=00FF90&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=transparent&title_color=00FF90&text_color=FFFFFF&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ptraxzy&theme=tokyonight&hide_border=true&area=true" />
 </p>
 
 ---
