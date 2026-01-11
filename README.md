@@ -1,21 +1,16 @@
-<h1 align="center">Hi, I'm Putra 👋</h1>
+<h1 align="center">Hi there 👋, I'm Putra</h1>
 <p align="center">
-  🚀 Web & API Developer | 🎮 Game Enthusiast | 🔐 Security Explorer  
-</p>
-
-<p align="center">
-  <a href="https://ultramaxo.tech">🌐 Website</a> • 
-  <a href="https://instagram.com/ptraxzy">📸 Instagram</a> • 
-  <a href="https://tiktok.com/@mchc">🎵 TikTok</a>
+  💻 Web & API Developer | 🎮 Game Enthusiast | 🔐 Security Explorer  
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🌍 Based in Indonesia  
-- 💡 Passionate about building free multi-API platforms  
-- 🎯 Exploring the intersection of web dev & AI  
-- 🧩 Curious about tech economics & philosophy  
+## 🌟 About Me
+I'm Putra, a creative soul who loves building web platforms and experimenting with APIs.  
+I enjoy mixing logic with art — turning ideas into digital form.  
+- 🚀 Always learning something new  
+- 🎯 Passionate about building useful tools  
+- ✨ Skilled in design & video editing  
 
 ---
 
@@ -37,16 +32,16 @@
 
 ---
 
+## 🤝 Let's Collaborate!
+Got a cool idea, need a front-end partner, or want to design a game or animation?  
+Let’s build something amazing together! 💡🚀
+
+---
+
 ## 📌 Featured Projects
 - 🔥 [Ultramaxo.tech](https://ultramaxo.tech) – Free multi-API platform  
 - 🎬 [AksataMovie](#) – Movie app with modern UI  
 - 📖 [AksataQuran](#) – Quran app with clean design  
-
----
-
-## 🤝 Let's Collaborate!
-Got a cool idea, need a front-end partner, or want to design a game or animation?  
-Let’s build something amazing together!
 
 ---
 
