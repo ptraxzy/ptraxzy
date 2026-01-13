@@ -2,7 +2,7 @@
 
 ### Web Developer from Indonesia
 
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Web+%26+Developer;Frontend+Developer;Always+Learning)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Web+%26+Developer;Fullstack+Developer;Always+Learning)
 
 ---
 
