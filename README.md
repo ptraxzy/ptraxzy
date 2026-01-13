@@ -51,5 +51,5 @@ Let’s make it real.
 
 ---
 
-> “Humans are born ignorant, not stupid.  
-> They become stupid through laziness and despair.”
+> Humans are born ignorant, not stupid.
+> Stupidity is learned through laziness and surrender.
