@@ -1,6 +1,6 @@
 # Hi there , I'm Muhammad Putra
 
-### Web & Game Developer from Indonesia
+### Web Developer from Indonesia
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Web+%26+Developer;Frontend+Developer;Always+Learning)
 
@@ -39,7 +39,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/puttraa.0)
 [![TikTok](https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/uultramax)
-[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ultramaxo.tech)
+[![Website](https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://putraagifary.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptraxzy)
 
 ---
