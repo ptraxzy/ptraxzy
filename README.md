@@ -25,13 +25,6 @@
 
 ---
 
-### Design & Editing
-
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Photoshop](https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-0D1117?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
-
-
 ---
 
 ### Socials
