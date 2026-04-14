@@ -39,8 +39,8 @@ _Self-taught web developer passionate about building clean and functional web ex
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=radical&hide_rank=true&count_private=true)](https://github.com/ptraxzy)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=radical&count_private=true)](https://github.com/ptraxzy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&theme=radical&hide_rank=true&cache_seconds=86400)](https://github.com/ptraxzy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&theme=radical&cache_seconds=86400)](https://github.com/ptraxzy)
 
 ---
 
