@@ -61,7 +61,7 @@ const ptraxzy = {
 
 <p align="center">
   <a href="https://github.com/ptraxzy">
-    <img height="180" alt="ptraxzy GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700&text_color=ffffff&count_private=true&rank_icon=github">
+    <img height="180" alt="ptraxzy GitHub stats" src="https://github-stats-extended.vercel.app/api?username=ptraxzy&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700&text_color=ffffff&count_private=true&rank_icon=github">
   </a>
   <a href="https://github.com/ptraxzy">
     <img height="180" alt="ptraxzy GitHub commit streak" src="https://streak-stats.demolab.com?user=ptraxzy&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FFD700&currStreakLabel=00F7FF">
@@ -70,13 +70,13 @@ const ptraxzy = {
 
 <p align="center">
   <a href="https://github.com/ptraxzy">
-    <img alt="ptraxzy top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&count_private=true&langs_count=10">
+    <img alt="ptraxzy top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&count_private=true&langs_count=10">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ptraxzy">
-    <img alt="ptraxzy GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=ptraxzy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10">
+    <img alt="ptraxzy GitHub trophies" src="https://github-profile-trophy-tawny.vercel.app/?username=ptraxzy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10">
   </a>
 </p>
 
