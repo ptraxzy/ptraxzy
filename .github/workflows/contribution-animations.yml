@@ -1,0 +1,48 @@
+name: Generate Contribution Animations
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ptraxzy
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a78bfa&color_dots=#0d1117,#1e1b4b,#312e81,#6d28d9,#a78bfa
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.9.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ptraxzy
+
+      - name: Stage 3D contribution calendar
+        run: |
+          mkdir -p dist/profile-3d-contrib
+          cp -R profile-3d-contrib/. dist/profile-3d-contrib/
+
+      - name: Publish animations to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
