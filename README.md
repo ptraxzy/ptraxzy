@@ -78,41 +78,41 @@ My current work is centered around TypeScript web products, PHP/MySQL applicatio
 
 <div align="center">
 
-<a href="https://github.com/ptraxzy/ultramaxoBuilder">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=ultramaxoBuilder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="ultramaxoBuilder repository card" />
-</a>
-<a href="https://github.com/ptraxzy/UltramaxoAI">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=UltramaxoAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="UltramaxoAI repository card" />
-</a>
-
-<a href="https://github.com/ptraxzy/nexus-core">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=nexus-core&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="nexus-core repository card" />
-</a>
 <a href="https://github.com/ptraxzy/upk-restoran">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=upk-restoran&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="upk-restoran repository card" />
 </a>
-
 <a href="https://github.com/ptraxzy/telegram-bot">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=telegram-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="telegram-bot repository card" />
 </a>
+
 <a href="https://github.com/ptraxzy/ultramaxo-baileys">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=ultramaxo-baileys&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="ultramaxo-baileys repository card" />
+</a>
+<a href="https://github.com/ptraxzy/UltramaxoMD">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=UltramaxoMD&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="UltramaxoMD repository card" />
+</a>
+
+<a href="https://github.com/ptraxzy/UltramaxoAutoOrder">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=UltramaxoAutoOrder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="UltramaxoAutoOrder repository card" />
+</a>
+<a href="https://github.com/ptraxzy/bot-downloader">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ptraxzy&repo=bot-downloader&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="bot-downloader repository card" />
 </a>
 
 </div>
 
 <table>
   <tr>
-    <td><strong>AI Web Products</strong></td>
-    <td><a href="https://github.com/ptraxzy/UltramaxoAI">UltramaxoAI</a>, <a href="https://github.com/ptraxzy/nexus-core">nexus-core</a>, and <a href="https://github.com/ptraxzy/ultramaxoBuilder">ultramaxoBuilder</a> show the direction of the Ultramaxo ecosystem.</td>
+    <td><strong>Public Work</strong></td>
+    <td>PHP apps, Telegram bots, WhatsApp/Baileys automation, downloader tools, and TypeScript automation projects that can be reviewed directly on GitHub.</td>
   </tr>
   <tr>
-    <td><strong>Business Apps</strong></td>
-    <td><a href="https://github.com/ptraxzy/upk-restoran">upk-restoran</a> highlights PHP application work with practical data and management flows.</td>
+    <td><strong>Ultramaxo Direction</strong></td>
+    <td>AI web products, model-access UX, and product-builder experiments are part of the Ultramaxo ecosystem. Some active product repositories are private, so this profile keeps claims concise and verifiable.</td>
   </tr>
   <tr>
-    <td><strong>Automation</strong></td>
-    <td><a href="https://github.com/ptraxzy/telegram-bot">telegram-bot</a> and <a href="https://github.com/ptraxzy/ultramaxo-baileys">ultramaxo-baileys</a> cover real-time bot and messaging automation projects.</td>
+    <td><strong>Hiring Signal</strong></td>
+    <td>Projects show practical implementation across web apps, automation workflows, and product-focused engineering without relying on inflated claims.</td>
   </tr>
 </table>
 
