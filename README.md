@@ -146,10 +146,11 @@ Open to:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ptraxzy&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
 <img height="175" src="https://streak-stats.demolab.com?user=ptraxzy&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptraxzy&theme=tokyonight" alt="GitHub profile stats" />
 
 <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptraxzy&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Top languages" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptraxzy&theme=tokyonight" alt="Most committed languages" />
 
 </div>
 
