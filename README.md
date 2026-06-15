@@ -288,7 +288,7 @@ These projects show the automation side of the portfolio: small focused systems 
 <h2 align="center">GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ptraxzy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=ptraxzy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ---
