@@ -233,30 +233,36 @@ These projects show the automation side of the portfolio: small focused systems 
 
 ---
 
-<h2 align="center">Certifications</h2>
+<h2 align="center">Engineering Focus</h2>
 
-<p align="center"><strong>AWS</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Track-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Track" />
-</p>
+<table align="center">
+  <tr>
+    <th>Area</th>
+    <th>Current Focus</th>
+  </tr>
+  <tr>
+    <td>AI Products</td>
+    <td>Building branded AI web experiences, model-access flows, and chat-driven product interfaces under the Ultramaxo direction.</td>
+  </tr>
+  <tr>
+    <td>Full Stack Web</td>
+    <td>Shipping Next.js, TypeScript, PHP, and MySQL applications with clean UX and practical backend architecture.</td>
+  </tr>
+  <tr>
+    <td>Automation</td>
+    <td>Developing Telegram and WhatsApp/Baileys workflows for real-time messaging, utility bots, and repeatable automation.</td>
+  </tr>
+  <tr>
+    <td>Product Mindset</td>
+    <td>Turning experiments into usable software by focusing on speed, clarity, maintainability, and visible GitHub progress.</td>
+  </tr>
+</table>
 
-<p align="center"><strong>Oracle</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Foundations" />
-  <img src="https://img.shields.io/badge/Oracle-Java%20Foundations-312E81?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Foundations" />
-</p>
-
-<p align="center"><strong>NPTEL</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Software Engineering" />
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="NPTEL Cloud Computing" />
-</p>
-
-<p align="center"><strong>Cisco</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Basics" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-4C1D95?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
+  <img src="https://img.shields.io/badge/AI%20Platforms-4C1D95?style=for-the-badge&logo=openai&logoColor=white" alt="AI Platforms" />
+  <img src="https://img.shields.io/badge/Next.js%20%26%20TypeScript-312E81?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js and TypeScript" />
+  <img src="https://img.shields.io/badge/PHP%20%26%20MySQL-6D28D9?style=for-the-badge&logo=php&logoColor=white" alt="PHP and MySQL" />
+  <img src="https://img.shields.io/badge/Baileys%20%26%20Bots-2563EB?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys and Bots" />
 </p>
 
 ---
