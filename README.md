@@ -44,7 +44,7 @@ My current work is centered around TypeScript web products, PHP/MySQL applicatio
   </tr>
   <tr>
     <td><strong>Website</strong></td>
-    <td><a href="https://putraalghifary.web.id">putraalghifary.web.id</a></td>
+    <td><a href="https://xputra.dev">xputra.dev</a></td>
   </tr>
   <tr>
     <td><strong>Public repositories</strong></td>
